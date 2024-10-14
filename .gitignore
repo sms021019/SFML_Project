@@ -1,0 +1,12 @@
+# Ignore Visual Studio files
+SFML_Project/.vs/
+
+# Ignore build artifacts from the project
+SFML_Project/build/
+SFML_Project/*.obj
+SFML_Project/*.exe
+
+# Ignore log and temp files from the server
+SFML_Server/logs/
+SFML_Server/*.log
+SFML_Server/tmp/
